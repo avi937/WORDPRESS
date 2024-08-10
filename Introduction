@@ -1,0 +1,8 @@
+# WORDPRESS APPLICATION ON AWS:
+
+1. Deployed an Ubuntu Webserver: Set up an Ubuntu instance on AWS EC2 to serve as the webserver.
+2. Configured Elastic IP: Assigned and configured an Elastic IP to ensure consistent accessibility of the server.
+3. Installed Apache: Set up Apache HTTP Server to handle web traffic and serve the WordPress site.
+4. Installed PHP: Integrated PHP to enable dynamic content processing.
+5. Set Up Database: Installed and configured a database to store WordPress data.
+6. Installed WordPress: Successfully installed and configured WordPress, including theme and plugin setup.
